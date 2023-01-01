@@ -1,2 +1,3 @@
-# DTCC2015
-2015年中国数据库技术大会(DTCC)资料
+## DTCC2013 | [大会简介](https://dtcc.it168.com/2015/index.html) | [会议议程](https://dtcc.it168.com/2015/richeng.html)
+
+![](doc/images/banner.jpeg)
